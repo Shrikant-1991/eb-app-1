@@ -1,5 +1,5 @@
 import logging.handlers
-
+pip3 install urllib3
 # Create logger
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
